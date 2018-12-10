@@ -1,0 +1,11 @@
+/Users/lujianhui/Desktop/tellocore/bin/Debug/netcoreapp2.2/tellocore.deps.json
+/Users/lujianhui/Desktop/tellocore/bin/Debug/netcoreapp2.2/tellocore.runtimeconfig.json
+/Users/lujianhui/Desktop/tellocore/bin/Debug/netcoreapp2.2/tellocore.runtimeconfig.dev.json
+/Users/lujianhui/Desktop/tellocore/bin/Debug/netcoreapp2.2/tellocore.dll
+/Users/lujianhui/Desktop/tellocore/bin/Debug/netcoreapp2.2/tellocore.pdb
+/Users/lujianhui/Desktop/tellocore/obj/Debug/netcoreapp2.2/tellocore.csprojAssemblyReference.cache
+/Users/lujianhui/Desktop/tellocore/obj/Debug/netcoreapp2.2/tellocore.csproj.CoreCompileInputs.cache
+/Users/lujianhui/Desktop/tellocore/obj/Debug/netcoreapp2.2/tellocore.AssemblyInfoInputs.cache
+/Users/lujianhui/Desktop/tellocore/obj/Debug/netcoreapp2.2/tellocore.AssemblyInfo.cs
+/Users/lujianhui/Desktop/tellocore/obj/Debug/netcoreapp2.2/tellocore.dll
+/Users/lujianhui/Desktop/tellocore/obj/Debug/netcoreapp2.2/tellocore.pdb
